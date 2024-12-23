@@ -1,18 +1,6 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This was an assignment I completed for my Algorithms and Data structures course at KTH. The code was written in Java.
 
-## Folder Structure
+This is my implementation of a path solving program, using Dijkstras Algorithm. This was implemented using a queue, Hash table and of course the algorithm itself.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+You can try out the code my going to /src/bench and entering any two european cities as shown. 
